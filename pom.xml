@@ -17,6 +17,7 @@
 
     <modules>
         <module>top150</module>
+        <module>dynamic-programming</module>
     </modules>
 
     <dependencyManagement>
